@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Agunivers7/tgmoviebot",
-    "repository": "https://github.com/Agunivers7/tgmoviebot",
+    "website": "https://github.com/Agunivers7/img",
+    "repository": "https://github.com/Agunivers7/img",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token. Get from @BotFather.",
